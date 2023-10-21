@@ -1,3 +1,6 @@
+# Software Name: IP Port Scanner
+# Author: Bocaletto Luca
+# Web Site: https://www.elektronoide.it
 import tkinter as tk
 import socket
 import threading
