@@ -37,3 +37,11 @@ The "IP Port Scanner" software is a Python application built using Tkinter that 
 ## Installation
 
 To run the application, you need to have Python installed on your system. Additionally, Tkinter, which is typically included with Python distributions, is required.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
